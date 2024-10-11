@@ -9,5 +9,6 @@ package Interfaces;
  * @author LAB-USR-CHIMBOTE
  */
 public interface Motorizado {
-    
+    public void cargarBateria();
 }
+

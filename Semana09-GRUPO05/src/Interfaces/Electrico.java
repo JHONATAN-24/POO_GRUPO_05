@@ -9,7 +9,5 @@ package Interfaces;
  * @author LAB-USR-CHIMBOTE
  */
 public interface Electrico {
-    public void cambiarAceite(){
-        
-    }
+    public void cambiarAceite();
 }

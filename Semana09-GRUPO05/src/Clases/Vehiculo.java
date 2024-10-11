@@ -16,8 +16,6 @@ public class Vehiculo {
 
     public Vehiculo() {
     }
- 
-    
     
     public Vehiculo(String marca, String modelo, int año, String tipoCombustible) {
         this.marca = marca;

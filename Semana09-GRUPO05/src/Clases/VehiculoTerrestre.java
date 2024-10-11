@@ -27,7 +27,6 @@ public class VehiculoTerrestre extends Vehiculo {
         this.cantidadRuedas = cantidadRuedas;
     }
     
-    
     @Override
     public String toString() {
         return "vehiculoTerrestre{" + "cantidadRuedas=" + cantidadRuedas + '}';
